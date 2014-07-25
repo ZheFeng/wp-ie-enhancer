@@ -200,7 +200,8 @@ Network: True
 	<![endif]-->
 	<!--[if lt IE 9]>
 	<script src="//libs.useso.com/js/html5shiv/3.7/html5shiv-printshiv.min.js"></script>
-    <script src="//jmdstatic.qiniudn.com/iehackexcanvas.min.js"></script>
+    <script src="//jmdstatic.qiniudn.com/iehack/css3-mediaqueries.js"></script>
+    <script src="//jmdstatic.qiniudn.com/iehack/excanvas.min.js"></script>
 	<![endif]-->
 	<!--[if gt IE 7]>
 	<meta http-equiv="X-Content-Type-Options" content="nosniff">
