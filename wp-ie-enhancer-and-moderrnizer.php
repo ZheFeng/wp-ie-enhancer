@@ -199,10 +199,6 @@ Network: True
 	<script src="//libs.useso.com/js/html5shiv/3.7/html5shiv-printshiv.min.js"></script>
 	<![endif]-->
 	<!--[if lt IE 9]>
-	<script src="//jmdstatic.qiniudn.com/iehackieBetter.min.js"></script>
-	<script src="//jmdstatic.qiniudn.com/ie7js/IE9.js">IE7_PNG_SUFFIX=".png";</script>
-	<script src="//jmdstatic.qiniudn.com/ie7js/ie7-recalc.js"></script>
-	<script src="//jmdstatic.qiniudn.com/ie7js/ie7-squish.js"></script>
 	<script src="//libs.useso.com/js/html5shiv/3.7/html5shiv-printshiv.min.js"></script>
 	<![endif]-->
 	<!--[if gt IE 7]>
